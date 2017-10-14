@@ -8,4 +8,12 @@
 
 - [Variables y tipos de datos](variables_y_tipos_de_datos.ipynb)
 
+- [Estructuras de datos][estructuras_de_datos.ipynb]
+
 - [Control de flujo](control_de_flujo.ipynb)
+
+- [Módulos, paquetes y clases](modulos_paquetes_clases.ipynb)
+
+## Apendices
+
+- [Guía de estilo](guia_estilo.ipynb)
