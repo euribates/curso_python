@@ -19,3 +19,6 @@
 - [Guía de estilo](guia_estilo.ipynb)
 
 - [Paradigmas de programación](paradigmas.ipynb) 
+
+- [Enlaces de interes](enlaces.ipynb)
+
