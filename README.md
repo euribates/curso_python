@@ -16,6 +16,8 @@
 
 - [Excepciones y tratamiento de errores](07_excepciones.ipynb)
 
+- [La librería estandar](08_libreria_estandar.ipynb)
+
 ## Apendices
 
 - [Guía de estilo](guia_estilo.ipynb)
