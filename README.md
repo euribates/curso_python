@@ -2,17 +2,17 @@
 
 ## Python
 
-- [Introducción a Python](introduccion_a_Python.ipynb)
+- [Introducción a Python](01_introduccion_a_Python.ipynb)
 
-- [Primeros pasos](primeros_pasos.ipynb)
+- [Primeros pasos](02_primeros_pasos.ipynb)
 
-- [Variables y tipos de datos](variables_y_tipos_de_datos.ipynb)
+- [Variables y tipos de datos](03_variables_y_tipos_de_datos.ipynb)
 
-- [Estructuras de datos](estructuras_de_datos.ipynb)
+- [Estructuras de datos](04_estructuras_de_datos.ipynb)
 
-- [Control de flujo](control_de_flujo.ipynb)
+- [Control de flujo](05_control_de_flujo.ipynb)
 
-- [Módulos, paquetes y clases](modulos_paquetes_clases.ipynb)
+- [Módulos, paquetes y clases](06_modulos_paquetes_clases.ipynb)
 
 ## Apendices
 
