@@ -14,6 +14,8 @@
 
 - [Módulos, paquetes y clases](06_modulos_paquetes_clases.ipynb)
 
+- [Excepciones y tratamiento de errores](07_excepciones.ipynb)
+
 ## Apendices
 
 - [Guía de estilo](guia_estilo.ipynb)
